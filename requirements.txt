@@ -10,3 +10,4 @@ python-jose
 python-multipart
 pymysql
 cryptography
+pytest

@@ -1,1 +1,1 @@
-# multi-user-event-management
+Multi-User Event Management System

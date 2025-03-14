@@ -1,10 +1,9 @@
 # Multi-User Event Management System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
 
-A robust and scalable web platform designed to streamline event creation, management, and participation. Built with **FastAPI**, **SQLAlchemy**, and **Docker**, this system empowers administrators, event organizers, and participants with a comprehensive set of tools—all secured with JWT-based authentication.
+A robust and scalable web platform designed to streamline event creation, management, and participation. Built with **FastAPI**, **SQLAlchemy**, and **Docker**, this system empowers administrators, event organizers, and participants with comprehensive tools—all secured with JWT-based authentication.
 
 ---
 

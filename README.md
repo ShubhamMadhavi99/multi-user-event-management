@@ -18,7 +18,6 @@ A robust and scalable web platform designed to streamline event creation, manage
 - [API Endpoints](#api-endpoints)
 - [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact & Support](#contact--support)
 
 ---
